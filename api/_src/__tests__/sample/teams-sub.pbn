@@ -1,0 +1,1064 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.14.2">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="0200 NBF Østfold og Follo">
+% <META  name=Arranger                   content="0200 NBF Østfold og Follo">
+% <META  name=Signature                  content="0200 NBF Østfold og Follo">
+% <META  name=Created                    content="2022-09-27 13:31:57">
+% 
+% <META  name=ContestDate                content="2022-09-14">
+% <META  name=ContestName                content="2022KMLAG - 1:1">
+% <META  name=ContestType                content="2">
+% <META  name=ScoringType                content="IMP;Butler-2;Mean">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content="">
+% 
+% <META  name=TableCount                 content="26">
+% <META  name=PairCount                  content="52">
+% <META  name=PhantomCount               content="0">
+% <META  name=BoardCount                 content="14">
+% <META  name=RoundCount                 content="1">
+% <META  name=BoardCountSession          content="14">
+% <META  name=BoardCountSessionMax       content="14">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=Strata                     content="">
+% <META  name=StrataHcpLevel             content="">
+% 
+% <META  name=CRCategoryID               content="99">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="25476">
+% <META  name=SerialNumber               content="">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% <META  name=CRReportMPAfter            content="">
+% 
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:9742.QJT.J.AJ863 K8.9832.AQT632.5 AT63.K74.K98.972 QJ5.A65.754.KQT4"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;RankTie\2R;PairId\3R;Section\3R;Table\2R;Direction\5R;TotalScoreIMP\5R;Names\49L;NrBoards\2R;Team\15L;MemberID1\7R;MemberID2\7R;Sex1\3R;Sex2\3R"]
+ 1  -  10 "A" 10 "N-S"  2.93 "Kjell Aspestrand - Hilde Brække"                 14 "Idd 1"         "15213" "11031" "M" "W"
+ 2  - 113 "B" 13 "N-S"  2.43 "Hans Hofgaard - Jan Erik Nybakken"               14 "Idd 2"         "22224" "24635" "M" "M"
+ 3  - 104 "B"  4 "N-S"  2.00 "Rene Eriksen - Thomas Feilberg-Jacobsen"         14 "Fredrikstad 2" "13871" "10653" "M" "M"
+ 4  5 106 "B"  6 "N-S"  1.79 "Hege Johansen - Kristine Kvernstrøm"             14 "Kolbotn 4"     "32129" "25582" "W" "W"
+ 4  5 311 "B" 11 "E-W"  1.79 "Geir Rune Kiserud - Tor Tollefsen"               14 "Kambo BK"       "9285"  "4420" "M" "M"
+ 6  - 207 "A"  7 "E-W"  1.57 "Bente Buan - Bjørn Håvelsrud"                    14 "Kolbotn 3"     "37006" "37007" "W" "M"
+ 7  -  12 "A" 12 "N-S"  1.36 "Karl Hojem - Tom Anders Ludvigsen"               14 "Soon 2"        "37735" "32985" "M" "M"
+ 8  - 205 "A"  5 "E-W"  1.29 "Morten Iversen - Thore Uttisrud"                 14 "Moss 1"        "24899" "16831" "M" "M"
+ 9  - 305 "B"  5 "E-W"  1.21 "Kolbjørn Høie - Niels Chr. Nielsen"              14 "Kolbotn 2"     "25173" "18578" "M" "M"
+10  - 309 "B"  9 "E-W"  1.14 "Svein Morten Andresen - Jan Erik Olsen"          14 "Fredrikstad 3" "23068"  "9985" "M" "M"
+11 13   9 "A"  9 "N-S"  1.07 "Tore Farbrot - Arne Marthinussen"                14 "Fredrikstad 3" "13636" "12726" "M" "M"
+11 13 107 "B"  7 "N-S"  1.07 "Dag Eriksen - Bård Lian"                         14 "Kolbotn 3"     "41932" "31391" "M" "M"
+11 13 213 "A" 13 "E-W"  1.07 "Per Alf Braathen - Jan Olof Granstedt"           14 "Idd 2"         "33294" "43305" "M" "M"
+14  -   2 "A"  2 "N-S"  1.00 "Olav Hjerkinn - Andreas Jansen"                  14 "Ski BK 1"        "675" "38503" "M" "M"
+15  - 103 "B"  3 "N-S"  0.93 "Elisabeth Græsholt Sjødal - Rolf Sjødal"         14 "Nesodden BK 1" "34354" "27640" "W" "M"
+16  - 206 "A"  6 "E-W"  0.86 "Siri Bråtane - Lars Erik Thomassen"              14 "Kolbotn 4"     "33578" "13319" "W" "M"
+17  - 308 "B"  8 "E-W"  0.71 "Leif Jansen - Willy Nilsen"                      14 "Kolbotn 1"      "7963" "10129" "M" "M"
+18  - 302 "B"  2 "E-W"  0.50 "Erik Gjemdal - Espen Bård Johansen"              14 "Ski BK 1"      "11269" "24675" "M" "M"
+19 20  11 "A" 11 "N-S"  0.36 "Edel Willgohs - Torkel Willgohs"                 14 "Kambo BK"       "3764"   "360" "W" "M"
+19 20 204 "A"  4 "E-W"  0.36 "Jørn Fjæstad - Gunnar Pettersen"                 14 "Fredrikstad 2" "11795"  "6410" "M" "M"
+21 22   8 "A"  8 "N-S"  0.14 "Bjørn Tore Hallén - Sven-Åge Lund"               14 "Kolbotn 1"     "27205" "27206" "M" "M"
+21 22 312 "B" 12 "E-W"  0.14 "Vigdis Heggeli - Kjell Aalandslid"               14 "Soon 2"        "43211" "31308" "W" "M"
+23 24   3 "A"  3 "N-S"  0.07 "Stig Henning Dybdahl - Erik Solberg"             14 "Askim"         "14637" "14819" "M" "M"
+23 24 310 "B" 10 "E-W"  0.07 "Claes Andersen - Øystein Moræus"                 14 "Idd 1"         "44976" "15110" "M" "M"
+25 26 110 "B" 10 "N-S" -0.07 "Åsmund Rådahl - Merete Thonstad"                 14 "Moss 2"        "31255" "20169" "M" "W"
+25 26 203 "A"  3 "E-W" -0.07 "Atle Hjort-Larsen - Atle Jacobsen"               14 "Nesodden BK 1" "18792" "18793" "M" "M"
+27 28 112 "B" 12 "N-S" -0.14 "Marianne Larsen - Robert Larsen"                 14 "Spydeberg"     "41138" "41139" "W" "M"
+27 28 208 "A"  8 "E-W" -0.14 "Arild Olsson - Per Willy Watz"                   14 "Nesodden 2"    "19910" "25138" "M" "M"
+29 30   4 "A"  4 "N-S" -0.36 "Arild Lysaker - Torfinn Wilhelmsen"              14 "Sarpsborg 2"    "7475"  "9912" "M" "M"
+29 30 211 "A" 11 "E-W" -0.36 "Roar Bjerke - Harald Skogholt"                   14 "BånnSki BK"    "44562" "44571" "M" "W"
+31  - 102 "B"  2 "N-S" -0.50 "Svein Arne Grimstad - Lars Mosby"                14 "Torsnes BK"    "35864" "13040" "M" "M"
+32  - 108 "B"  8 "N-S" -0.71 "Hans-Thomas Holmøy - Trygve Sætereng"            14 "Nesodden 2"    "11616" "12876" "M" "M"
+33  -   6 "A"  6 "N-S" -0.86 "Torstein Kjærvik - Per Arild Kvist"              14 "Ski 2"          "8397" "18774" "M" "M"
+34  - 303 "B"  3 "E-W" -0.93 "Henrik Livgård - Leif Johan Lundal"              14 "Askim"         "31624" "10252" "M" "M"
+35  - 202 "A"  2 "E-W" -1.00 "Knut Molander - Per Rømoen"                      14 "Torsnes BK"     "1459" "34886" "M" "M"
+36 38  13 "A" 13 "N-S" -1.07 "Laila K. Siltvedt - Wencke Thorstensen"          14 "Kolbotn 5"     "39025" "39026" "W" "W"
+36 38 209 "A"  9 "E-W" -1.07 "Gunn Magni Angelskår - Torbjørn Pedersen"        14 "ÅS BK"         "13978" "10503" "W" "M"
+36 38 307 "B"  7 "E-W" -1.07 "Svein Flogeland Gathe - Rolf Lassen Lersbryggen" 14 "Soon 1"        "21226"  "1287" "M" "M"
+39  - 109 "B"  9 "N-S" -1.14 "Sven Pran - Bjørn Arne Ruud"                     14 "ÅS BK"          "9704" "23063" "M" "M"
+40  - 105 "B"  5 "N-S" -1.21 "Egil Hansen - Jørn Johansen"                     14 "Moss 1"         "1439"  "9659" "M" "M"
+41  -   5 "A"  5 "N-S" -1.29 "Karl Johan Bjørn - Nicolai Meek"                 14 "Kolbotn 2"      "7964"  "4899" "M" "M"
+42  - 212 "A" 12 "E-W" -1.36 "Hilde Borger - Anne Hjemmen"                     14 "Spydeberg"     "30441" "26017" "W" "W"
+43  -   7 "A"  7 "N-S" -1.57 "Berit Eidsmo - Jorun Risbråthe"                  14 "Soon 1"        "25838" "31314" "W" "W"
+44 45 111 "B" 11 "N-S" -1.79 "Ane Matea Bergum - Dagfinn Karlsen"              14 "BånnSki BK"    "36787" "31074" "W" "M"
+44 45 306 "B"  6 "E-W" -1.79 "Roger Kristiansen - Per Sletten"                 14 "Ski 2"         "21868" "12855" "M" "M"
+46  - 304 "B"  4 "E-W" -2.00 "Anders Raaen - Jan Talberg"                      14 "Sarpsborg 2"    "6403" "10651" "M" "M"
+47  - 313 "B" 13 "E-W" -2.43 "Mette Hugin - Anne May Kristiansen"              14 "Kolbotn 5"     "41332" "36698" "W" "W"
+48  - 210 "A" 10 "E-W" -2.93 "Marianne Kreutz - Robin Watson"                  14 "Moss 2"        "33089" "33489" "W" "M"
+49 52   1 "A"  1 "N-S"  0.00 "Flemming Johnsen - Magnus Bruun Larssen"          0 "Fredrikstad 1" "28336" "18444" "M" "M"
+49 52 101 "B"  1 "N-S"  0.00 "Olav Erik Didriksen - Tommy Arctander Lødding"    0 "Sarpsborg 1"    "9336" "26687" "M" "M"
+49 52 201 "A"  1 "E-W"  0.00 "Tom Gjøs - Lars Helgesen"                         0 "Sarpsborg 1"   "24424" "13411" "M" "M"
+49 52 301 "B"  1 "E-W"  0.00 "Atle Evensen - Arild Simensen"                    0 "Fredrikstad 1" "35977" "14323" "M" "M"
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"B" 12 1 112 312 3N   W  6 HQ   "150"      -   5  -5  -50
+"A"  6 1   6 206 3N   W  7 HQ   "100"      -   4  -4  -50
+"A"  4 1   4 204 1S   N  7 C5    "80"      -   4  -4  -50
+"A" 10 1  10 210 3D   E  8 C2    "50"      -   3  -3  -50
+"B"  3 1 103 303 3D   E  8 H4    "50"      -   3  -3  -50
+"B"  4 1 104 304 3D   E  8 SA    "50"      -   3  -3  -50
+"A"  2 1   2 202 Pass -  - -      "0"      -   2  -2  -50
+"A"  3 1   3 203 Pass -  - -      "0"      -   2  -2  -50
+"B" 11 1 111 311 Pass -  - -      "0"      -   2  -2  -50
+"B"  7 1 107 307 3S   S  8 D7       -   "50"   0   0  -50
+"A" 11 1  11 211 2D   E  8 C2       -   "90"  -1   1  -50
+"B"  2 1 102 302 2D   E  8 C3       -   "90"  -1   1  -50
+"B" 13 1 113 313 2D   W  8 C3       -   "90"  -1   1  -50
+"A"  8 1   8 208 3S   N  7 C5       -  "100"  -2   2  -50
+"A"  5 1   5 205 2D   E  9 S3       -  "110"  -2   2  -50
+"A"  7 1   7 207 2D   E  9 SA       -  "110"  -2   2  -50
+"A"  9 1   9 209 3D   E  9 S3       -  "110"  -2   2  -50
+"A" 12 1  12 212 2D   E  9 S6       -  "110"  -2   2  -50
+"B"  8 1 108 308 2D   E  9 C7       -  "110"  -2   2  -50
+"B"  9 1 109 309 2D   E  9 C9       -  "110"  -2   2  -50
+"A" 13 1  13 213 2D   E 10 C7       -  "130"  -2   2  -50
+"B"  5 1 105 305 1N   W  9 C6       -  "150"  -3   3  -50
+"B"  6 1 106 306 1N   W  9 C3       -  "150"  -3   3  -50
+"B" 10 1 110 310 1N   W 10 C3       -  "180"  -4   4  -50
+[OptimumScore "NS 100"]
+[OptimumContract "2NX E 7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  5
+W  H  7
+W  D  8
+W  C  5
+W NT  7
+N  S  8
+N  H  5
+N  D  4
+N  C  8
+N NT  5
+E  S  5
+E  H  7
+E  D  8
+E  C  5
+E NT  7
+S  S  8
+S  H  5
+S  D  4
+S  C  8
+S NT  5
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:5.KQ63.K6.AKQ953 T3.J4.AJ9874.872 KJ764.A97.532.T6 AQ982.T852.QT.J4"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A"  2 1   2 202 4H   E  8 ST   "100"      -   9  -9 -290
+"B" 13 1 113 313 2H   E  6 ST   "100"      -   9  -9 -290
+"A"  6 1   6 206 3C   W  8 HJ    "50"      -   8  -8 -290
+"B"  3 1 103 303 6C   E 11 DA    "50"      -   8  -8 -290
+"B"  5 1 105 305 2S   W  7 DQ    "50"      -   8  -8 -290
+"B" 12 1 112 312 4C   E  9 C7    "50"      -   8  -8 -290
+"B"  9 1 109 309 2C   E  9 HJ       -  "110"   5  -5 -290
+"A" 10 1  10 210 3C   E 11 DA       -  "150"   4  -4 -290
+"B"  6 1 106 306 1N   E  9 D4       -  "150"   4  -4 -290
+"A"  3 1   3 203 3N   W  9 H5       -  "400"  -3   3 -290
+"A"  8 1   8 208 3N   E  9 D7       -  "400"  -3   3 -290
+"A"  9 1   9 209 3N   W  9 H8       -  "400"  -3   3 -290
+"A" 13 1  13 213 4H   E 10 DA       -  "420"  -4   4 -290
+"A"  7 1   7 207 3N   E 10 C8       -  "430"  -4   4 -290
+"B"  4 1 104 304 3N   E 10 D4       -  "430"  -4   4 -290
+"A"  4 1   4 204 3N   E 11 D4       -  "460"  -5   5 -290
+"A"  5 1   5 205 3N   E 11 D4       -  "460"  -5   5 -290
+"A" 11 1  11 211 3N   E 11 D9       -  "460"  -5   5 -290
+"A" 12 1  12 212 3N   E 11 D8       -  "460"  -5   5 -290
+"B"  2 1 102 302 3N   E 11 D9       -  "460"  -5   5 -290
+"B"  7 1 107 307 3N   E 11 D7       -  "460"  -5   5 -290
+"B"  8 1 108 308 3N   W 11 S2       -  "460"  -5   5 -290
+"B" 10 1 110 310 3N   E 11 D9       -  "460"  -5   5 -290
+"B" 11 1 111 311 3N   E 11 D4       -  "460"  -5   5 -290
+[OptimumScore "NS -140"]
+[OptimumContract "3H W 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  6
+W  H  9
+W  D  5
+W  C  9
+W NT  5
+N  S  7
+N  H  4
+N  D  8
+N  C  4
+N NT  4
+E  S  5
+E  H  8
+E  D  5
+E  C  9
+E NT  4
+S  S  7
+S  H  4
+S  D  8
+S  C  4
+S NT  4
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQ3.J.JT9652.963 8764.KT75.8.KJ87 J92.AQ63.A73.Q52 KT5.9842.KQ4.AT4"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"B"  4 1 104 304 2H   W  6 DA   "200"      -   4  -4   40
+"A" 10 1  10 210 2N   N  9 H9   "150"      -   3  -3   40
+"B"  7 1 107 307 1S   S  9 H5   "140"      -   3  -3   40
+"A"  8 1   8 208 2N   S  8 S8   "120"      -   2  -2   40
+"A"  3 1   3 203 3D   N  9 H9   "110"      -   2  -2   40
+"B"  8 1 108 308 3D   N  9 CA   "110"      -   2  -2   40
+"B" 10 1 110 310 3D   S  9 H5   "110"      -   2  -2   40
+"B" 13 1 113 313 2D   S  9 C7   "110"      -   2  -2   40
+"A"  9 1   9 209 3H   E  8 DJ   "100"      -   2  -2   40
+"A" 12 1  12 212 2H   W  7 DA   "100"      -   2  -2   40
+"A"  5 1   5 205 2D   S  8 S4    "90"      -   2  -2   40
+"A" 11 1  11 211 2D   S  8 C7    "90"      -   2  -2   40
+"A" 13 1  13 213 2D   S  8 H5    "90"      -   2  -2   40
+"B"  2 1 102 302 2D   S  8 S8    "90"      -   2  -2   40
+"B"  6 1 106 306 1N   N  7 H2    "90"      -   2  -2   40
+"A"  2 1   2 202 3D   S  8 S4       -   "50"  -3   3   40
+"A"  4 1   4 204 3D   S  8 H5       -   "50"  -3   3   40
+"B"  3 1 103 303 1N   N  6 H3       -   "50"  -3   3   40
+"B"  5 1 105 305 3D   S  8 S8       -   "50"  -3   3   40
+"B"  9 1 109 309 1N   S  6 S8       -   "50"  -3   3   40
+"A"  6 1   6 206 4D   S  8 H7       -  "100"  -4   4   40
+"A"  7 1   7 207 1N   N  5 H4       -  "100"  -4   4   40
+"B" 11 1 111 311 3D   S  7 H5       -  "100"  -4   4   40
+"B" 12 1 112 312 2H   W  8 D3       -  "110"  -4   4   40
+[OptimumScore "NS -100"]
+[OptimumContract "3DX S 8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H  8
+W  D  5
+W  C  6
+W NT  5
+N  S  6
+N  H  5
+N  D  8
+N  C  5
+N NT  6
+E  S  7
+E  H  8
+E  D  4
+E  C  6
+E NT  5
+S  S  6
+S  H  5
+S  D  8
+S  C  5
+S NT  5
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A865.AJ73.AKQ43. 2.K98.9652.A9632 KJ3.542.JT87.T85 QT974.QT6..KQJ74"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"B" 10 1 110 310 5DX  W  9 S2   "500"      -  11 -11  -40
+"A" 11 1  11 211 4S   E  7 CK   "300"      -   8  -8  -40
+"A"  4 1   4 204 5D   W  9 S2   "200"      -   6  -6  -40
+"B" 11 1 111 311 3C   S  9 DK   "110"      -   4  -4  -40
+"A" 12 1  12 212 5D   W 10 S2   "100"      -   4  -4  -40
+"A" 13 1  13 213 4S   E  9 CK   "100"      -   4  -4  -40
+"B"  3 1 103 303 3N   E  8 CK   "100"      -   4  -4  -40
+"B"  6 1 106 306 3N   E  8 CK   "100"      -   4  -4  -40
+"B" 13 1 113 313 3D   W  8 S2   "100"      -   4  -4  -40
+"A"  3 1   3 203 2D   W  9 D2       -  "110"  -2   2  -40
+"A"  6 1   6 206 3D   W  9 S2       -  "110"  -2   2  -40
+"B"  2 1 102 302 2D   W  9 S2       -  "110"  -2   2  -40
+"B"  5 1 105 305 3D   W  9 S2       -  "110"  -2   2  -40
+"A"  8 1   8 208 4D   W 10 S2       -  "130"  -3   3  -40
+"A"  9 1   9 209 2D   E 10 CK       -  "130"  -3   3  -40
+"A" 10 1  10 210 2D   W 10 S2       -  "130"  -3   3  -40
+"B"  4 1 104 304 2D   W 10 S2       -  "130"  -3   3  -40
+"B"  7 1 107 307 3D   W 10 CA       -  "130"  -3   3  -40
+"B"  8 1 108 308 3D   W 10 S2       -  "130"  -3   3  -40
+"B"  9 1 109 309 3D   W 10 S2       -  "130"  -3   3  -40
+"A"  7 1   7 207 2D   W 11 S2       -  "150"  -3   3  -40
+"A"  2 1   2 202 5CX  S 10 DA       -  "200"  -4   4  -40
+"B" 12 1 112 312 4CX  S  9 DK       -  "200"  -4   4  -40
+"A"  5 1   5 205 4S   E 10 CK       -  "620" -11  11  -40
+[OptimumScore "NS 200"]
+[OptimumContract "5DX W 10"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H  9
+W  D 10
+W  C  2
+W NT  8
+N  S  5
+N  H  4
+N  D  2
+N  C 11
+N NT  5
+E  S  7
+E  H  9
+E  D 10
+E  C  2
+E NT  8
+S  S  5
+S  H  4
+S  D  3
+S  C 11
+S NT  5
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J9765.4.8632.K63 K8.AK865.KJ4.Q82 A43.973.AT9.JT75 QT2.QJT2.Q75.A94"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A"  9 1   9 209 4H   E  9 H3    "50"      -  10 -10 -410
+"B"  7 1 107 307 2H   E 10 CJ       -  "170"   6  -6 -410
+"A" 13 1  13 213 3N   E  9 C7       -  "400"   0   0 -410
+"A"  2 1   2 202 4H   E 10 CJ       -  "420"   0   0 -410
+"A"  3 1   3 203 4H   E 10 CJ       -  "420"   0   0 -410
+"A"  4 1   4 204 4H   E 10 CJ       -  "420"   0   0 -410
+"A"  6 1   6 206 4H   E 10 CJ       -  "420"   0   0 -410
+"A"  7 1   7 207 4H   E 10 H3       -  "420"   0   0 -410
+"A"  8 1   8 208 4H   E 10 C5       -  "420"   0   0 -410
+"A" 10 1  10 210 4H   E 10 CJ       -  "420"   0   0 -410
+"A" 11 1  11 211 4H   E 10 CJ       -  "420"   0   0 -410
+"A" 12 1  12 212 4H   E 10 DA       -  "420"   0   0 -410
+"B"  2 1 102 302 4H   E 10 H3       -  "420"   0   0 -410
+"B"  3 1 103 303 4H   E 10 CJ       -  "420"   0   0 -410
+"B"  4 1 104 304 4H   E 10 H7       -  "420"   0   0 -410
+"B"  5 1 105 305 4H   E 10 H7       -  "420"   0   0 -410
+"B"  6 1 106 306 4H   E 10 H3       -  "420"   0   0 -410
+"B"  8 1 108 308 4H   E 10 CJ       -  "420"   0   0 -410
+"B"  9 1 109 309 4H   E 10 DA       -  "420"   0   0 -410
+"B" 10 1 110 310 4H   E 10 CJ       -  "420"   0   0 -410
+"B" 11 1 111 311 4H   E 10 S3       -  "420"   0   0 -410
+"B" 12 1 112 312 4H   E 10 H7       -  "420"   0   0 -410
+"B" 13 1 113 313 4H   E 10 H3       -  "420"   0   0 -410
+"A"  5 1   5 205 3N   E 10 H9       -  "430"  -1   1 -410
+[OptimumScore "NS -420"]
+[OptimumContract "4H E 10"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H 10
+W  D  8
+W  C  8
+W NT  9
+N  S  6
+N  H  3
+N  D  5
+N  C  4
+N NT  3
+E  S  7
+E  H 10
+E  D  8
+E  C  8
+E NT  9
+S  S  6
+S  H  3
+S  D  5
+S  C  4
+S NT  3
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJT8.965.J9743.A KQ953.QJ3..KJ932 62.KT84.KT52.T86 74.A72.AQ86.Q754"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A" 12 1  12 212 3N   N 10 D3   "430"      -   7  -7  150
+"B"  4 1 104 304 3N   N 10 H4   "430"      -   7  -7  150
+"B"  9 1 109 309 3N   N 10 D3   "430"      -   7  -7  150
+"A"  6 1   6 206 3N   N  9 D3   "400"      -   6  -6  150
+"A"  8 1   8 208 5C   N 11 CA   "400"      -   6  -6  150
+"A"  9 1   9 209 5C   N 11 D3   "400"      -   6  -6  150
+"A" 10 1  10 210 3N   N  9 D4   "400"      -   6  -6  150
+"A" 13 1  13 213 3N   N  9 D4   "400"      -   6  -6  150
+"B"  5 1 105 305 3N   N  9 H5   "400"      -   6  -6  150
+"B"  8 1 108 308 5C   N 11 D7   "400"      -   6  -6  150
+"B" 13 1 113 313 3N   N  9 D4   "400"      -   6  -6  150
+"A"  2 1   2 202 6C   N 11 CA       -   "50"  -5   5  150
+"A"  3 1   3 203 3N   N  8 D3       -   "50"  -5   5  150
+"A"  4 1   4 204 3N   N  8 D4       -   "50"  -5   5  150
+"A"  7 1   7 207 5C   N 10 D2       -   "50"  -5   5  150
+"B"  3 1 103 303 3N   N  8 D3       -   "50"  -5   5  150
+"B"  6 1 106 306 3N   S  8 H2       -   "50"  -5   5  150
+"B"  7 1 107 307 3N   N  8 D4       -   "50"  -5   5  150
+"B" 10 1 110 310 3N   N  8 D2       -   "50"  -5   5  150
+"A"  5 1   5 205 3N   N  7 D3       -  "100"  -6   6  150
+"A" 11 1  11 211 3N   N  7 D4       -  "100"  -6   6  150
+"B"  2 1 102 302 4S   S  8 H3       -  "100"  -6   6  150
+"B" 11 1 111 311 3N   N  7 D4       -  "100"  -6   6  150
+"B" 12 1 112 312 3N   N  6 D3       -  "150"  -7   7  150
+[OptimumScore "NS 400"]
+[OptimumContract "5C S 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  3
+W  H  5
+W  D  7
+W  C  2
+W NT  4
+N  S  9
+N  H  7
+N  D  5
+N  C 11
+N NT  8
+E  S  4
+E  H  6
+E  D  7
+E  C  2
+E NT  4
+S  S  9
+S  H  7
+S  D  5
+S  C 11
+S NT  8
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:93.JT87.T65.Q983 QJT6.AKQ95.3.JT5 52.63.KQJ82.K762 AK874.42.A974.A4"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"B"  2 1 102 302 7S   E 12 C9   "100"      -  14 -14 -970
+"A"  3 1   3 203 4S   E 12 D2       -  "680"   7  -7 -970
+"A"  4 1   4 204 4S   E 12 HJ       -  "680"   7  -7 -970
+"A" 10 1  10 210 4S   E 12 C9       -  "680"   7  -7 -970
+"B"  9 1 109 309 4S   E 12 HJ       -  "680"   7  -7 -970
+"A"  2 1   2 202 4S   E 13 C3       -  "710"   6  -6 -970
+"A"  7 1   7 207 4S   E 13 S3       -  "710"   6  -6 -970
+"A"  9 1   9 209 4S   W 13 DK       -  "710"   6  -6 -970
+"A" 11 1  11 211 5S   E 13 D5       -  "710"   6  -6 -970
+"A" 12 1  12 212 4S   E 13 C9       -  "710"   6  -6 -970
+"B"  4 1 104 304 5S   E 13 D6       -  "710"   6  -6 -970
+"B"  6 1 106 306 4S   E 13 C2       -  "710"   6  -6 -970
+"B"  7 1 107 307 4S   E 13 D5       -  "710"   6  -6 -970
+"B" 10 1 110 310 4S   E 13 C9       -  "710"   6  -6 -970
+"B" 13 1 113 313 4S   E 13 HJ       -  "710"   6  -6 -970
+"B" 11 1 111 311 6S   E 12 C9       - "1430" -10  10 -970
+"B" 12 1 112 312 6S   E 12 D6       - "1430" -10  10 -970
+"A"  5 1   5 205 6S   E 13 D3       - "1460" -10  10 -970
+"A"  6 1   6 206 6S   E 13 D5       - "1460" -10  10 -970
+"A"  8 1   8 208 6S   E 13 S3       - "1460" -10  10 -970
+"A" 13 1  13 213 6S   E 13 CQ       - "1460" -10  10 -970
+"B"  3 1 103 303 6S   E 13 D5       - "1460" -10  10 -970
+"B"  5 1 105 305 6S   E 13 D5       - "1460" -10  10 -970
+"B"  8 1 108 308 6S   E 13 D5       - "1460" -10  10 -970
+[OptimumScore "NS -2210"]
+[OptimumContract "7S W 13"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 13
+W  H 12
+W  D  8
+W  C  8
+W NT 12
+N  S  0
+N  H  1
+N  D  5
+N  C  5
+N NT  1
+E  S 13
+E  H 12
+E  D  8
+E  C  8
+E NT 12
+S  S  0
+S  H  1
+S  D  5
+S  C  5
+S NT  1
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJ52.KQ7.A84.JT8 AT3.86532.K7.K65 4.AJ94.QJ32.A732 Q9876.T.T965.Q94"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"B"  6 1 106 306 3N   E  7 S6   "100"      -  10 -10 -330
+"A"  8 1   8 208 3N   W  8 -     "50"      -   9  -9 -330
+"A" 12 1  12 212 3N   E  8 S6    "50"      -   9  -9 -330
+"B"  4 1 104 304 3N   E  8 S9    "50"      -   9  -9 -330
+"B"  7 1 107 307 1N   E  9 S6       -  "150"   5  -5 -330
+"A"  2 1   2 202 3N   W  9 H2       -  "400"  -2   2 -330
+"A"  4 1   4 204 3N   W  9 H6       -  "400"  -2   2 -330
+"A"  6 1   6 206 3N   W  9 C6       -  "400"  -2   2 -330
+"A"  7 1   7 207 3N   W  9 H5       -  "400"  -2   2 -330
+"A"  9 1   9 209 3N   E  9 HT       -  "400"  -2   2 -330
+"A" 10 1  10 210 3N   W  9 SA       -  "400"  -2   2 -330
+"A" 11 1  11 211 3N   E  9 HT       -  "400"  -2   2 -330
+"B"  2 1 102 302 3N   W  9 H2       -  "400"  -2   2 -330
+"B"  5 1 105 305 3N   W  9 S3       -  "400"  -2   2 -330
+"B"  8 1 108 308 3N   W  9 H5       -  "400"  -2   2 -330
+"B"  9 1 109 309 3N   W  9 H2       -  "400"  -2   2 -330
+"B" 11 1 111 311 3N   E  9 HT       -  "400"  -2   2 -330
+"B" 12 1 112 312 3N   E  9 S9       -  "400"  -2   2 -330
+"A"  3 1   3 203 3N   W 10 DK       -  "430"  -3   3 -330
+"A"  5 1   5 205 3N   W 10 H2       -  "430"  -3   3 -330
+"A" 13 1  13 213 3N   E 10 D6       -  "430"  -3   3 -330
+"B"  3 1 103 303 3N   E 10 S9       -  "430"  -3   3 -330
+"B" 10 1 110 310 3N   E 10 HT       -  "430"  -3   3 -330
+"B" 13 1 113 313 3N   W 10 H2       -  "430"  -3   3 -330
+[OptimumScore "NS -400"]
+[OptimumContract "3N W 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H  8
+W  D  8
+W  C  9
+W NT  9
+N  S  6
+N  H  5
+N  D  4
+N  C  4
+N NT  4
+E  S  6
+E  H  8
+E  D  8
+E  C  9
+E NT  9
+S  S  6
+S  H  5
+S  D  4
+S  C  4
+S NT  4
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT2.QJ4.A8762.52 75.KT8753.KT.KT4 96.96.Q94.AJ9876 AKQ843.A2.J53.Q3"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A"  2 1   2 202 4H   E  9 CA   "100"      -  12 -12 -540
+"A" 10 1  10 210 4H   W  9 C5   "100"      -  12 -12 -540
+"A" 11 1  11 211 2S   W 11 SJ       -  "200"   8  -8 -540
+"B"  3 1 103 303 3H   E 11 CA       -  "200"   8  -8 -540
+"B"  6 1 106 306 2S   W 11 C5       -  "200"   8  -8 -540
+"A"  4 1   4 204 4H   E 10 CA       -  "620"  -2   2 -540
+"A"  6 1   6 206 4S   W 10 C5       -  "620"  -2   2 -540
+"A"  7 1   7 207 4H   E 10 CA       -  "620"  -2   2 -540
+"A"  9 1   9 209 4H   E 10 S9       -  "620"  -2   2 -540
+"A" 12 1  12 212 4H   E 10 H9       -  "620"  -2   2 -540
+"A" 13 1  13 213 4H   E 10 CA       -  "620"  -2   2 -540
+"B"  2 1 102 302 4H   E 10 S9       -  "620"  -2   2 -540
+"B"  7 1 107 307 4H   E 10 D4       -  "620"  -2   2 -540
+"B"  9 1 109 309 4H   E 10 CA       -  "620"  -2   2 -540
+"B" 11 1 111 311 4H   E 10 C6       -  "620"  -2   2 -540
+"B"  5 1 105 305 3N   E 10 C6       -  "630"  -3   3 -540
+"A"  3 1   3 203 4S   W 11 DA       -  "650"  -3   3 -540
+"A"  5 1   5 205 4H   E 11 H5       -  "650"  -3   3 -540
+"A"  8 1   8 208 4H   E 11 S6       -  "650"  -3   3 -540
+"B"  8 1 108 308 4S   W 11 DA       -  "650"  -3   3 -540
+"B" 12 1 112 312 4S   W 11 C5       -  "650"  -3   3 -540
+"B" 13 1 113 313 4S   W 11 C5       -  "650"  -3   3 -540
+"B"  4 1 104 304 3N   E 11 C6       -  "660"  -3   3 -540
+"B" 10 1 110 310 3N   E 11 C9       -  "660"  -3   3 -540
+[OptimumScore "NS -650"]
+[OptimumContract "5S E 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 11
+W  H 10
+W  D  7
+W  C  6
+W NT  9
+N  S  2
+N  H  2
+N  D  6
+N  C  6
+N NT  3
+E  S 11
+E  H 10
+E  D  7
+E  C  7
+E NT 10
+S  S  2
+S  H  2
+S  D  6
+S  C  6
+S NT  3
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ.KQ.JT754.QT97 QT97.J97.Q93.KJ8 86543.A62.AK862. A2.T8543..A65432"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"B"  7 1 107 307 6DX  E 10 ST   "500"      -  13 -13 -300
+"A"  5 1   5 205 6D   E 10 H6   "200"      -  11 -11 -300
+"B"  8 1 108 308 5D   E  9 H7   "200"      -  11 -11 -300
+"B"  4 1 104 304 5D   E 10 C8   "100"      -   9  -9 -300
+"B" 12 1 112 312 4S   W  9 CA   "100"      -   9  -9 -300
+"A"  3 1   3 203 4D   E 10 D2       -  "130"   5  -5 -300
+"B"  3 1 103 303 3D   E 10 H7       -  "130"   5  -5 -300
+"B" 13 1 113 313 3D   E 10 HJ       -  "130"   5  -5 -300
+"A" 13 1  13 213 2S   W  9 H8       -  "140"   4  -4 -300
+"A"  7 1   7 207 3D   E 11 H9       -  "150"   4  -4 -300
+"A" 10 1  10 210 3D   E 11 H7       -  "150"   4  -4 -300
+"A" 11 1  11 211 3D   E 11 SA       -  "150"   4  -4 -300
+"B" 10 1 110 310 4CX  N  9 SK       -  "200"   3  -3 -300
+"A"  2 1   2 202 5D   E 11 C8       -  "600"  -7   7 -300
+"A"  4 1   4 204 3N   E  9 CK       -  "600"  -7   7 -300
+"A"  6 1   6 206 5D   W 11 CK       -  "600"  -7   7 -300
+"A"  8 1   8 208 5D   E 11 C8       -  "600"  -7   7 -300
+"A"  9 1   9 209 5D   E 11 ST       -  "600"  -7   7 -300
+"A" 12 1  12 212 5D   E 11 ST       -  "600"  -7   7 -300
+"B"  2 1 102 302 3N   E  9 CK       -  "600"  -7   7 -300
+"B"  5 1 105 305 5D   E 11 H7       -  "600"  -7   7 -300
+"B"  6 1 106 306 3N   E  9 H7       -  "600"  -7   7 -300
+"B"  9 1 109 309 3N   E  9 C8       -  "600"  -7   7 -300
+"B" 11 1 111 311 5D   E 11 C8       -  "600"  -7   7 -300
+[OptimumScore "NS -1100"]
+[OptimumContract "6HX S 8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 10
+W  H  4
+W  D 12
+W  C  5
+W NT  9
+N  S  3
+N  H  8
+N  D  1
+N  C  8
+N NT  4
+E  S  9
+E  H  4
+E  D 12
+E  C  5
+E NT  9
+S  S  3
+S  H  8
+S  D  1
+S  C  8
+S NT  4
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A642.9.AKQ93.J96 Q8.KQ742.JT85.A8 KT973.AJT86.742. J5.53.6.KQT75432"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A"  2 1   2 202 6S   N 12 D6   "980"      -  11 -11  430
+"A"  3 1   3 203 6S   N 12 CA   "980"      -  11 -11  430
+"A"  4 1   4 204 5S   N 12 H3   "480"      -   2  -2  430
+"A"  5 1   5 205 4S   N 12 H5   "480"      -   2  -2  430
+"A"  7 1   7 207 4S   N 12 D8   "480"      -   2  -2  430
+"A"  8 1   8 208 5S   N 12 H5   "480"      -   2  -2  430
+"A"  9 1   9 209 5S   N 12 H5   "480"      -   2  -2  430
+"A" 10 1  10 210 5S   N 12 H5   "480"      -   2  -2  430
+"A" 13 1  13 213 4S   N 12 H5   "480"      -   2  -2  430
+"B"  3 1 103 303 4S   S 12 CA   "480"      -   2  -2  430
+"B"  5 1 105 305 5S   S 12 CA   "480"      -   2  -2  430
+"B"  6 1 106 306 4S   N 12 H5   "480"      -   2  -2  430
+"B"  9 1 109 309 4S   N 12 H3   "480"      -   2  -2  430
+"B" 11 1 111 311 5S   N 12 H5   "480"      -   2  -2  430
+"B" 12 1 112 312 5S   N 12 D6   "480"      -   2  -2  430
+"B" 13 1 113 313 4S   N 12 H5   "480"      -   2  -2  430
+"A" 12 1  12 212 5S   N 11 D6   "450"      -   1  -1  430
+"A" 11 1  11 211 5CX  E  9 DA   "300"      -  -4   4  430
+"B"  2 1 102 302 5CX  E  9 DA   "300"      -  -4   4  430
+"B"  4 1 104 304 5CX  E  9 DA   "300"      -  -4   4  430
+"B"  7 1 107 307 5CX  E  9 DA   "300"      -  -4   4  430
+"A"  6 1   6 206 5C   W  9 DA   "100"      -  -8   8  430
+"B" 10 1 110 310 4CX  E  9 DA   "100"      -  -8   8  430
+"B"  8 1 108 308 3C   E  9 DA       -  "110" -11  11  430
+[OptimumScore "NS 980"]
+[OptimumContract "6S S 12"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  1
+W  H  3
+W  D  1
+W  C  8
+W NT  4
+N  S 12
+N  H 10
+N  D 12
+N  C  4
+N NT  5
+E  S  1
+E  H  3
+E  D  1
+E  C  8
+E NT  4
+S  S 12
+S  H 10
+S  D 12
+S  C  4
+S NT  5
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQT83.Q9.T8763.8 52.7532.KQJ92.K4 97.AKJT8.A5.9653 KJ64.64.4.AQJT72"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A"  5 1   5 205 4H   E  9 D4    "50"      -   6  -6 -200
+"A"  8 1   8 208 3S   W  8 DK    "50"      -   6  -6 -200
+"A"  6 1   6 206 3C   S  8 HQ       -  "100"   3  -3 -200
+"A" 10 1  10 210 3N   S  8 S3       -  "100"   3  -3 -200
+"B" 13 1 113 313 3C   S  8 SA       -  "100"   3  -3 -200
+"A" 11 1  11 211 3H   E  9 D4       -  "140"   2  -2 -200
+"A" 12 1  12 212 2H   E  9 D4       -  "140"   2  -2 -200
+"B"  3 1 103 303 3H   E  9 D4       -  "140"   2  -2 -200
+"B"  4 1 104 304 2S   W  9 DK       -  "140"   2  -2 -200
+"B"  6 1 106 306 2H   E  9 D4       -  "140"   2  -2 -200
+"B"  8 1 108 308 2H   E  9 D5       -  "140"   2  -2 -200
+"B" 12 1 112 312 3H   E  9 D4       -  "140"   2  -2 -200
+"B"  2 1 102 302 2H   E 10 D4       -  "170"   1  -1 -200
+"A"  3 1   3 203 3S   W 11 DK       -  "200"   0   0 -200
+"B" 10 1 110 310 3C   S  7 HQ       -  "200"   0   0 -200
+"B" 11 1 111 311 3C   S  7 HQ       -  "200"   0   0 -200
+"A"  4 1   4 204 2D   N  5 HA       -  "300"  -3   3 -200
+"A"  9 1   9 209 3N   S  6 D3       -  "300"  -3   3 -200
+"A" 13 1  13 213 4C   S  7 HQ       -  "300"  -3   3 -200
+"B"  7 1 107 307 4C   S  7 HQ       -  "300"  -3   3 -200
+"A"  7 1   7 207 3D   N  5 HA       -  "400"  -5   5 -200
+"B"  5 1 105 305 3N   S  5 D3       -  "400"  -5   5 -200
+"A"  2 1   2 202 3D   N  4 HA       -  "500"  -7   7 -200
+"B"  9 1 109 309 2D   N  3 HA       -  "500"  -7   7 -200
+[OptimumScore "NS -140"]
+[OptimumContract "3S W 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  9
+W  H  9
+W  D  9
+W  C  6
+W NT  7
+N  S  3
+N  H  3
+N  D  4
+N  C  7
+N NT  4
+E  S  9
+E  H  9
+E  D  9
+E  C  6
+E NT  7
+S  S  3
+S  H  3
+S  D  4
+S  C  7
+S NT  4
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K732.543.J5.J632 QJ5.AQJ8.872.K94 T9.KT76.K964.T87 A864.92.AQT3.AQ5"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A"  5 1   5 205 3N   E 10 D4       -  "630"   1  -1 -650
+"A"  7 1   7 207 3N   W 10 S3       -  "630"   1  -1 -650
+"A"  8 1   8 208 3N   E 10 H6       -  "630"   1  -1 -650
+"A" 10 1  10 210 3N   E 10 ST       -  "630"   1  -1 -650
+"A" 11 1  11 211 3N   E 10 ST       -  "630"   1  -1 -650
+"A" 13 1  13 213 3N   E 10 H6       -  "630"   1  -1 -650
+"B"  2 1 102 302 3N   E 10 H7       -  "630"   1  -1 -650
+"B"  4 1 104 304 3N   E 10 ST       -  "630"   1  -1 -650
+"B"  8 1 108 308 3N   W 10 S3       -  "630"   1  -1 -650
+"B"  9 1 109 309 3N   E 10 D4       -  "630"   1  -1 -650
+"B" 10 1 110 310 3N   E 10 ST       -  "630"   1  -1 -650
+"A"  2 1   2 202 3N   E 11 ST       -  "660"   0   0 -650
+"A"  3 1   3 203 3N   W 11 DJ       -  "660"   0   0 -650
+"A"  4 1   4 204 3N   E 11 H6       -  "660"   0   0 -650
+"A"  6 1   6 206 3N   E 11 H6       -  "660"   0   0 -650
+"A"  9 1   9 209 3N   E 11 ST       -  "660"   0   0 -650
+"A" 12 1  12 212 3N   E 11 H6       -  "660"   0   0 -650
+"B"  3 1 103 303 3N   E 11 ST       -  "660"   0   0 -650
+"B"  5 1 105 305 3N   E 11 ST       -  "660"   0   0 -650
+"B"  6 1 106 306 3N   E 11 S9       -  "660"   0   0 -650
+"B"  7 1 107 307 3N   W 11 DJ       -  "660"   0   0 -650
+"B" 11 1 111 311 3N   E 11 ST       -  "660"   0   0 -650
+"B" 12 1 112 312 3N   W 11 DJ       -  "660"   0   0 -650
+"B" 13 1 113 313 3N   W 11 DJ       -  "660"   0   0 -650
+[OptimumScore "NS -660"]
+[OptimumContract "5N W 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 11
+W  H 10
+W  D 10
+W  C 10
+W NT 11
+N  S  2
+N  H  3
+N  D  3
+N  C  3
+N NT  2
+E  S 10
+E  H  9
+E  D 10
+E  C 10
+E NT 10
+S  S  2
+S  H  3
+S  D  3
+S  C  3
+S NT  2
+
+[Event "2022KMLAG - 1:1"]
+[Site "0200 NBF Østfold og Follo, Ski, NBF Østfold og Follo, Norge"]
+[Date "2022.09.14"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J97542.9874..K84 AK6.KQ2.J652.A76 T3.JT653.Q74.T53 Q8.A.AKT983.QJ92"]
+[Scoring "IMP;Butler-2;Mean"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Pairs"]
+[EventDate "2022.09.14"]
+[Round "1.1"]
+[Annotator "0200 NBF Østfold og Follo"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Section\3R;Table\2R;Round\1R;PairId_NS\3R;PairId_EW\3R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\6R;Score_EW\6R;IMP_NS\3R;IMP_EW\3R;ButlerDatum\4R"]
+"A"  9 1   9 209 7D   N 13 S5  "1440"      -  11 -11  880
+"A"  8 1   8 208 6N   S 13 HJ  "1020"      -   4  -4  880
+"A" 12 1  12 212 6N   S 13 HJ  "1020"      -   4  -4  880
+"B"  2 1 102 302 6N   S 13 HJ  "1020"      -   4  -4  880
+"B"  7 1 107 307 6N   S 13 HJ  "1020"      -   4  -4  880
+"B"  8 1 108 308 6N   S 13 H5  "1020"      -   4  -4  880
+"B" 10 1 110 310 6N   S 13 H3  "1020"      -   4  -4  880
+"B" 13 1 113 313 6N   S 13 HJ  "1020"      -   4  -4  880
+"A"  4 1   4 204 6N   S 12 ST   "990"      -   3  -3  880
+"B" 11 1 111 311 6N   S 12 ST   "990"      -   3  -3  880
+"A"  2 1   2 202 6D   N 13 S2   "940"      -   2  -2  880
+"A"  6 1   6 206 6D   S 13 C4   "940"      -   2  -2  880
+"B"  3 1 103 303 6D   S 13 HJ   "940"      -   2  -2  880
+"B"  5 1 105 305 6D   S 13 C3   "940"      -   2  -2  880
+"B"  6 1 106 306 6D   N 13 H9   "940"      -   2  -2  880
+"B" 12 1 112 312 6D   N 13 CK   "940"      -   2  -2  880
+"A"  5 1   5 205 6D   S 12 HJ   "920"      -   1  -1  880
+"A" 10 1  10 210 6D   N 12 C4   "920"      -   1  -1  880
+"B"  4 1 104 304 6D   N 12 C4   "920"      -   1  -1  880
+"A"  7 1   7 207 3N   S 13 ST   "520"      -  -8   8  880
+"A" 11 1  11 211 3N   S 13 ST   "520"      -  -8   8  880
+"A"  3 1   3 203 5D   N 13 D2   "440"      - -10  10  880
+"A" 13 1  13 213 5D   S 12 ST   "420"      - -10  10  880
+"B"  9 1 109 309 3D   N 13 S7   "190"      - -12  12  880
+[OptimumScore "NS 1520"]
+[OptimumContract "7N S 13"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  4
+W  H  3
+W  D  0
+W  C  1
+W NT  0
+N  S  9
+N  H 10
+N  D 13
+N  C 12
+N NT 13
+E  S  3
+E  H  3
+E  D  0
+E  C  1
+E NT  0
+S  S  9
+S  H 10
+S  D 13
+S  C 12
+S NT 13

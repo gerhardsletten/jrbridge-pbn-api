@@ -1,0 +1,8 @@
+node_modules
+.env
+README.md
+.eslintrc
+api/\_src/local-server.js
+package-lock.json
+__tests__
+.vscode

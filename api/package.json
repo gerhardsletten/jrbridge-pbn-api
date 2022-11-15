@@ -1,0 +1,30 @@
+{
+  "name": "jrbridge-api",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "Gerhard Sletten",
+  "license": "ISC",
+  "scripts": {
+    "test": "ava",
+    "dev": "node _src/local-server.js",
+    "format": "prettier --write \"_src/**/*.js\" \"index.js\" \"test.js\""
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "ava": "^5.0.1",
+    "prettier": "^2.7.1",
+    "test-listen": "^1.1.0",
+    "vercel-node-server": "^2.2.1"
+  },
+  "dependencies": {
+    "got": "^12.5.2",
+    "parse-apache-directory-index": "^3.0.2",
+    "pbn": "^1.6.1"
+  }
+}

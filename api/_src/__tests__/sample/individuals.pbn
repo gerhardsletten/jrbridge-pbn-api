@@ -1,0 +1,1416 @@
+% PBN 2.0
+% EXPORT
+% 
+% <META  name=Generator                  content="Ruter i Norge">
+% <META  name=Version                    content="4.14.2">
+% <META  name=Author                     content="www.brenning.se">
+% 
+% <META  name=Licencee                   content="0245 Nesodden BK">
+% <META  name=Arranger                   content="0245 Nesodden BK">
+% <META  name=Signature                  content="0245 Nesodden BK">
+% <META  name=Created                    content="2022-10-04 22:35:52">
+% 
+% <META  name=ContestDate                content="2022-10-04">
+% <META  name=ContestName                content="Høstsingel2022">
+% <META  name=ContestType                content="1">
+% <META  name=ScoringType                content="MatchPoints;MP1">
+% <META  name=Barometer                  content="Y">
+% <META  name=TournamentDirector         content=";;;;;;;;;;;;;;;;;;">
+% 
+% <META  name=TableCount                 content="5">
+% <META  name=PlayerCount                content="20">
+% <META  name=PhantomCount               content="0">
+% <META  name=BoardCount                 content="27">
+% <META  name=RoundCount                 content="9">
+% <META  name=BoardCountSession          content="27">
+% <META  name=BoardCountSessionMax       content="27">
+% <META  name=Average                    content="">
+% <META  name=HandicapPercentageAverage  content="">
+% 
+% <META  name=Strata                     content="">
+% <META  name=StrataHcpLevel             content="">
+% 
+% <META  name=CRCategoryID               content="1">
+% <META  name=Factor                     content="1">
+% <META  name=FactorReason               content="">
+% <META  name=ContestID                  content="26097">
+% <META  name=SerialNumber               content="643">
+% <META  name=PlayerCategoryCount        content="">
+% 
+% <META  name=CRMultiSession             content="">
+% <META  name=CRMultiSessionID           content="">
+% <META  name=CRSession                  content="">
+% <META  name=CRSessionCount             content="">
+% <META  name=CRCutAfterSession          content="">
+% <META  name=CRReportMPAfter            content="">
+% 
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:98732.AJ83.AT.32 QJT.T972.K62.Q94 AK.KQ6.Q875.KT85 654.54.J943.AJ76"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[TotalScoreTable "Rank\2R;PlayerId\2R;Table\1R;Direction\3R;TotalScoreMP\3R;TotalPercentage\5R;Name\24L;NrBoards\2R;Club\14L;MemberID\7R;Sex\3R"]
+ 1  3 1 "E"  30 63.89 "Rolf Sjødal"            27 "Nesodden BK"  "27640" "M"
+ 2 19 5 "W"  20 59.26 "Kai Heggelund"          27 "Nesodden BK"  "42956" "M"
+ 3 12 2 "N"  19 58.80 "Arild Olsson"           27 "Nesodden BK"  "19910" "M"
+ 4 17 4 "W"  17 57.87 "Øystein Deschington"    27 "Nesodden BK"  "19902" "M"
+ 5 13 4 "S"  16 57.41 "Arne Grøstad"           27 "Nesodden BK"  "15238" "M"
+ 6  5 3 "N"  14 56.48 "Anne Gullie Falkenberg" 27 "Nesodden BK"  "36813" "W"
+ 7 10 3 "E"  13 56.02 "Ove Tautra"             27 "Nesodden BK"  "19915" "M"
+ 8  2 2 "E"   6 52.78 "Anne E. S. Enger"       27 "Nesodden BK"  "38917" "W"
+ 9 16 5 "S"   5 52.31 "Kåre Bjerke"            27 "Nesodden BK"  "28117" "M"
+10  9 3 "S"   4 51.85 "Tormod Reppe"           27 "Nesodden BK"  "35440" "M"
+11  6 4 "N"   2 50.93 "Finn Leiang"            27 "Nesodden BK"  "32713" "M"
+12 20 1 "N"   0 50.00 "Atle Jacobsen"          27 "TopBridge BC" "18793" "M"
+13 14 2 "S"  -5 47.69 "Unn Elisabeth Lynum"    27 "Nesodden BK"  "33044" "W"
+14  1 1 "S"  -6 47.22 "Yngvar Lepperød"        27 "Nesodden BK"  "29651" "M"
+15 11 4 "E" -11 44.91 "Arild Grøstad"          27 "Nesodden BK"  "15237" "M"
+16  8 5 "E" -15 43.06 "Hilde Marie Krange"     27 "Nesodden BK"  "46209" "W"
+17 18 2 "W" -16 42.59 "Roar Larsen"            27 "Nesodden BK"   "8060" "M"
+18  4 1 "W" -25 38.43 "Paul Næverlid"          27 "Nesodden BK"   "3179" "M"
+19 15 3 "W" -28 37.04 "Simon Bjørnstad"        27 "Nesodden BK"  "29649" "M"
+20  7 5 "N" -40 31.48 "Nils Erik Lie"          27 "Nesodden BK"  "45989" "M"
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+2 1 12 14  2 18 3N   S 10 H5  "430"      -  4  4 -4 -4 100 100   0   0
+3 1  5  9 10 15 3N   S  9 D3  "400"      -  0  0  0  0  50  50  50  50
+5 1  7 16  8 19 3N   S  9 C6  "400"      -  0  0  0  0  50  50  50  50
+1 1 20  1  3  4 3N   S  9 H5  "400"      -  0  0  0  0  50  50  50  50
+4 1  6 13 11 17 2N   S 10 S6  "180"      - -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 400"]
+[OptimumContract "3N N 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  4
+W  H  3
+W  D  4
+W  C  5
+W NT  4
+N  S  9
+N  H  9
+N  D  8
+N  C  8
+N NT  9
+E  S  4
+E  H  3
+E  D  4
+E  C  5
+E NT  4
+S  S  9
+S  H  9
+S  D  8
+S  C  8
+S NT  9
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:2.752.QJ987.A972 8653.KQ643.A.854 QJT7.AT8.K543.Q6 AK94.J9.T62.KJT3"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+4 1  6 13 11 17 5DX  W  8 SA  "500"      -  4  4 -4 -4 100 100   0   0
+2 1 12 14  2 18 3S   N 10 S2  "170"      -  2  2 -2 -2  75  75  25  25
+3 1  5  9 10 15 3S   N  9 DQ  "140"      -  0  0  0  0  50  50  50  50
+1 1 20  1  3  4 4D   E 10 SA      -  "130" -2 -2  2  2  25  25  75  75
+5 1  7 16  8 19 4S   S  8 D3      -  "200" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 140"]
+[OptimumContract "3S S 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  4
+W  H  3
+W  D  8
+W  C  5
+W NT  6
+N  S  9
+N  H  9
+N  D  5
+N  C  8
+N NT  6
+E  S  3
+E  H  3
+E  D  8
+E  C  5
+E NT  6
+S  S  9
+S  H  9
+S  D  5
+S  C  8
+S NT  6
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AT92.T8.Q85.7652 K6.J4.AT32.QJT83 853.AK9.KJ7.AK94 QJ74.Q76532.964."]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+3 1  5  9 10 15 2N   N  8 H5  "120"      -  3  3 -3 -3  88  88  13  13
+5 1  7 16  8 19 2N   N  8 C2  "120"      -  3  3 -3 -3  88  88  13  13
+2 1 12 14  2 18 1N   N  7 H7   "90"      -  0  0  0  0  50  50  50  50
+4 1  6 13 11 17 2N   N  7 H7      -   "50" -3 -3  3  3  13  13  88  88
+1 1 20  1  3  4 3N   N  8 H2      -   "50" -3 -3  3  3  13  13  88  88
+[OptimumScore "NS 120"]
+[OptimumContract "2N S 8"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  5
+W  H  7
+W  D  6
+W  C  5
+W NT  5
+N  S  7
+N  H  6
+N  D  6
+N  C  8
+N NT  8
+E  S  5
+E  H  7
+E  D  6
+E  C  5
+E NT  5
+S  S  7
+S  H  5
+S  D  6
+S  C  8
+S NT  8
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT842.AJ5.86.A75 3.Q92.T973.J8632 AJ9765.K764.J.K9 K.T83.AKQ542.QT4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+1 2 20  2  4  5 6S   W 11 DT  "100"      -  4  4 -4 -4 100 100   0   0
+3 2  6 10 11 16 4S   W 11 DA      -  "650"  0  0  0  0  50  50  50  50
+4 2  7 14 12 18 4S   E 11 DA      -  "650"  0  0  0  0  50  50  50  50
+2 2 13 15  3 19 4S   E 11 DA      -  "650"  0  0  0  0  50  50  50  50
+5 2  8 17  9  1 4S   W 12 HQ      -  "680" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -650"]
+[OptimumContract "5S W 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 11
+W  H 11
+W  D  5
+W  C  5
+W NT  7
+N  S  2
+N  H  2
+N  D  7
+N  C  7
+N NT  3
+E  S 11
+E  H 11
+E  D  5
+E  C  5
+E NT  7
+S  S  2
+S  H  2
+S  D  7
+S  C  7
+S NT  3
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K9.AJT7.A983.JT9 Q874.K864.KT6.53 32.Q9.Q74.AK8642 AJT65.532.J52.Q7"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+1 2 20  2  4  5 3N   N 11 H4  "660"      -  4  4 -4 -4 100 100   0   0
+3 2  6 10 11 16 3N   N  9 H4  "600"      -  2  2 -2 -2  75  75  25  25
+5 2  8 17  9  1 3S   W  7 CJ  "100"      -  0  0  0  0  50  50  50  50
+4 2  7 14 12 18 3N   S  7 SJ      -  "200" -3 -3  3  3  13  13  88  88
+2 2 13 15  3 19 3N   S  7 SA      -  "200" -3 -3  3  3  13  13  88  88
+[OptimumScore "NS 600"]
+[OptimumContract "5C N 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  6
+W  H  4
+W  D  3
+W  C  2
+W NT  2
+N  S  7
+N  H  9
+N  D 10
+N  C 11
+N NT  8
+E  S  6
+E  H  4
+E  D  3
+E  C  2
+E NT  2
+S  S  7
+S  H  9
+S  D 10
+S  C 11
+S NT  8
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A865.AJ9.Q72.QJ6 QJT3.5.JT53.KT83 42.KT873.64.A974 K97.Q642.AK98.52"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+3 2  6 10 11 16 1S   S  7 CA   "80"      -  4  4 -4 -4 100 100   0   0
+2 2 13 15  3 19 2H   W  8 DA      -  "110"  2  2 -2 -2  75  75  25  25
+5 2  8 17  9  1 2S   W  9 DA      -  "140" -1 -1  1  1  38  38  63  63
+1 2 20  2  4  5 3H   W  9 DA      -  "140" -1 -1  1  1  38  38  63  63
+4 2  7 14 12 18 2H   E 10 DA      -  "170" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -140"]
+[OptimumContract "3H E 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H  9
+W  D  5
+W  C  8
+W NT  7
+N  S  6
+N  H  4
+N  D  7
+N  C  5
+N NT  5
+E  S  7
+E  H  9
+E  D  5
+E  C  8
+E NT  7
+S  S  6
+S  H  4
+S  D  7
+S  C  5
+S NT  4
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K84.AQ94.Q.KT632 A9532.86.A832.Q8 T7.KJT72.654.A97 QJ6.53.KJT97.J54"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+2 3 14 16  4  1 4H   N 11 DJ  "650"      -  4  4 -4 -4 100 100   0   0
+1 3 20  3  5  6 4H   S 10 SA  "620"      -  2  2 -2 -2  75  75  25  25
+4 3  8 15 13 19 3H   N  9 SQ  "140"      - -1 -1  1  1  38  38  63  63
+5 3  9 18 10  2 3H   N  9 S5  "140"      - -1 -1  1  1  38  38  63  63
+3 3  7 11 12 17 2S   W 10 HJ      -  "170" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -140"]
+[OptimumContract "3S W 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  9
+W  H  4
+W  D  9
+W  C  4
+W NT  6
+N  S  3
+N  H  9
+N  D  2
+N  C  9
+N NT  3
+E  S  9
+E  H  4
+E  D  9
+E  C  4
+E NT  6
+S  S  3
+S  H  9
+S  D  2
+S  C  9
+S NT  3
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK3.K85.AK.KQ973 J8765.93.T75.A85 QT4.AJT2.Q64.JT6 92.Q764.J9832.42"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+4 3  8 15 13 19 3N   E 12 D9      -  "490"  2  2 -2 -2  75  75  25  25
+5 3  9 18 10  2 3N   E 12 D2      -  "490"  2  2 -2 -2  75  75  25  25
+2 3 14 16  4  1 3N   W 12 S6      -  "490"  2  2 -2 -2  75  75  25  25
+3 3  7 11 12 17 6N   E 12 S9      -  "990" -3 -3  3  3  13  13  88  88
+1 3 20  3  5  6 6N   W 12 CA      -  "990" -3 -3  3  3  13  13  88  88
+[OptimumScore "NS -990"]
+[OptimumContract "6N W 12"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 10
+W  H 12
+W  D 10
+W  C 12
+W NT 12
+N  S  3
+N  H  1
+N  D  3
+N  C  1
+N NT  1
+E  S 10
+E  H 12
+E  D 10
+E  C 12
+E NT 12
+S  S  3
+S  H  1
+S  D  3
+S  C  1
+S NT  1
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K987532.AJ.73.AK AT4.982.QJ2.Q643 J.KT7654.AK.JT52 Q6.Q3.T98654.987"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+2 3 14 16  4  1 4S   N 11 C4  "450"      -  3  3 -3 -3  88  88  13  13
+1 3 20  3  5  6 4S   N 11 C4  "450"      -  3  3 -3 -3  88  88  13  13
+3 3  7 11 12 17 3N   N 10 DT  "430"      -  0  0  0  0  50  50  50  50
+4 3  8 15 13 19 3N   S  9 DT  "400"      - -3 -3  3  3  13  13  88  88
+5 3  9 18 10  2 3N   S  9 DT  "400"      - -3 -3  3  3  13  13  88  88
+[OptimumScore "NS 460"]
+[OptimumContract "5N N 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  2
+W  H  1
+W  D  6
+W  C  2
+W NT  2
+N  S 11
+N  H 11
+N  D  7
+N  C 10
+N NT 11
+E  S  2
+E  H  1
+E  D  6
+E  C  2
+E NT  2
+S  S 11
+S  H 11
+S  D  7
+S  C 10
+S NT 11
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q743.Q43.AQ652.A 982.J52.94.K8652 AKJ.98.K73.QJT74 T65.AKT76.JT8.93"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+5 4 10 19 11  3 3N   W  8 H6  "100"      -  4  4 -4 -4 100 100   0   0
+4 4  9 16 14  1 3N   E 10 S9      -  "630"  1  1 -1 -1  63  63  38  38
+1 4 20  4  6  7 3N   E 10 S9      -  "630"  1  1 -1 -1  63  63  38  38
+3 4  8 12 13 18 4S   W 11 HA      -  "650" -2 -2  2  2  25  25  75  75
+2 4 15 17  5  2 3N   E 11 C2      -  "660" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -650"]
+[OptimumContract "5S E 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 11
+W  H  8
+W  D 11
+W  C 10
+W NT 10
+N  S  2
+N  H  5
+N  D  2
+N  C  3
+N NT  3
+E  S 11
+E  H  8
+E  D 11
+E  C 10
+E NT 10
+S  S  2
+S  H  5
+S  D  2
+S  C  3
+S NT  3
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:83.T853.T98652.8 QT9762.Q4.KQ3.T9 J4.AKJ962.J.AJ72 AK5.7.A74.KQ6543"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+1 4 20  4  6  7 4HX  N 10 SA  "590"      -  4  4 -4 -4 100 100   0   0
+3 4  8 12 13 18 4S   W  9 DJ   "50"      -  2  2 -2 -2  75  75  25  25
+2 4 15 17  5  2 4HX  N  9 SA      -  "100"  0  0  0  0  50  50  50  50
+4 4  9 16 14  1 4S   W 11 DJ      -  "450" -3 -3  3  3  13  13  88  88
+5 4 10 19 11  3 5S   W 11 HA      -  "450" -3 -3  3  3  13  13  88  88
+[OptimumScore "NS -300"]
+[OptimumContract "5HX S 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 10
+W  H  4
+W  D  6
+W  C 10
+W NT  6
+N  S  2
+N  H  9
+N  D  7
+N  C  3
+N NT  4
+E  S 10
+E  H  4
+E  D  6
+E  C 10
+E NT  6
+S  S  2
+S  H  9
+S  D  7
+S  C  3
+S NT  4
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ73.72.T87.QT95 K.KT9.AQJ9.KJ842 9865.AJ63.6532.3 AT42.Q854.K4.A76"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+4 4  9 16 14  1 3N   S 12 H7  "690"      -  4  4 -4 -4 100 100   0   0
+3 4  8 12 13 18 3N   S 11 S3  "660"      -  1  1 -1 -1  63  63  38  38
+5 4 10 19 11  3 3N   S 11 S3  "660"      -  1  1 -1 -1  63  63  38  38
+1 4 20  4  6  7 3N   S 10 S3  "630"      - -2 -2  2  2  25  25  75  75
+2 4 15 17  5  2 3N   S  8 CT      -  "100" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 1440"]
+[OptimumContract "6N N 12"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  3
+W  H  1
+W  D  1
+W  C  2
+W NT  1
+N  S  9
+N  H 12
+N  D 12
+N  C 11
+N NT 12
+E  S  3
+E  H  1
+E  D  1
+E  C  2
+E NT  1
+S  S  9
+S  H 12
+S  D 12
+S  C 11
+S NT 12
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ96.T4.9732.AK6 543.A82.AQT.JT92 JT2.J953.K864.Q8 K87.KQ76.J5.7543"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+1 5 20  5  7  8 1S   N  9 CJ  "140"      -  4  4 -4 -4 100 100   0   0
+3 5  9 13 14 19 2N   S  8 C5  "120"      -  0  0  0  0  50  50  50  50
+4 5 10 17 15  2 1N   S  8 H6  "120"      -  0  0  0  0  50  50  50  50
+5 5 11  1 12  4 1N   S  8 C7  "120"      -  0  0  0  0  50  50  50  50
+2 5 16 18  6  3 1S   N  8 CJ  "110"      - -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 140"]
+[OptimumContract "3S N 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  4
+W  H  5
+W  D  4
+W  C  6
+W NT  5
+N  S  9
+N  H  8
+N  D  9
+N  C  7
+N NT  8
+E  S  4
+E  H  5
+E  D  4
+E  C  6
+E NT  5
+S  S  9
+S  H  8
+S  D  9
+S  C  7
+S NT  8
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T86.A83.9642.K54 K94.QT.AKQJT53.J QJ75.J542.8.AT86 A32.K976.7.Q9732"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+4 5 10 17 15  2 3N   N 10 ST  "430"      -  2  2 -2 -2  75  75  25  25
+5 5 11  1 12  4 3N   N 10 ST  "430"      -  2  2 -2 -2  75  75  25  25
+1 5 20  5  7  8 3N   N 10 D9  "430"      -  2  2 -2 -2  75  75  25  25
+3 5  9 13 14 19 3N   N  9 ST  "400"      - -2 -2  2  2  25  25  75  75
+2 5 16 18  6  3 3N   N  8 H3      -   "50" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 430"]
+[OptimumContract "4N S 10"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  6
+W  H  4
+W  D  2
+W  C  4
+W NT  3
+N  S  7
+N  H  7
+N  D 10
+N  C  8
+N NT 10
+E  S  6
+E  H  4
+E  D  2
+E  C  4
+E NT  3
+S  S  7
+S  H  7
+S  D 10
+S  C  8
+S NT 10
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AT983.J9543.2.95 K6.AK76.AQT96.64 QJ54.Q8.J.QJT832 72.T2.K87543.AK7"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+3 5  9 13 14 19 5D   W 12 SQ      -  "420"  1  1 -1 -1  63  63  38  38
+4 5 10 17 15  2 5D   W 12 CQ      -  "420"  1  1 -1 -1  63  63  38  38
+5 5 11  1 12  4 5D   W 12 DJ      -  "420"  1  1 -1 -1  63  63  38  38
+1 5 20  5  7  8 5D   W 12 CQ      -  "420"  1  1 -1 -1  63  63  38  38
+2 5 16 18  6  3 3N   W 11 CQ      -  "460" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -920"]
+[OptimumContract "6D W 12"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  6
+W  H  8
+W  D 12
+W  C  6
+W NT 11
+N  S  7
+N  H  4
+N  D  1
+N  C  7
+N NT  2
+E  S  6
+E  H  8
+E  D 12
+E  C  6
+E NT 11
+S  S  7
+S  H  4
+S  D  1
+S  C  7
+S NT  2
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:7.AK7432..A87432 J65432.QJ86.K7.6 KQT8.9.A9853.KQ9 A9.T5.QJT642.JT5"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+2 6 17 19  7  4 5C   W 10 SQ  "100"      -  4  4 -4 -4 100 100   0   0
+3 6 10 14 15  1 2N   W 10 S6      -  "180"  2  2 -2 -2  75  75  25  25
+4 6 11 18 16  3 4H   W 10 S6      -  "620" -1 -1  1  1  38  38  63  63
+1 6 20  6  8  9 5C   W 12 DK      -  "620" -1 -1  1  1  38  38  63  63
+5 6 12  2 13  5 3N   E 10 DQ      -  "630" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -620"]
+[OptimumContract "4H W 10"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H 10
+W  D  7
+W  C 11
+W NT  9
+N  S  5
+N  H  2
+N  D  6
+N  C  1
+N NT  2
+E  S  7
+E  H 10
+E  D  7
+E  C 11
+E NT  9
+S  S  5
+S  H  2
+S  D  6
+S  C  1
+S NT  2
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K.QJ8643.KT964.J 72.K9.AQ532.A752 J853.T7.87.T9863 AQT964.A52.J.KQ4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+2 6 17 19  7  4 6S   W 11 C2   "50"      -  4  4 -4 -4 100 100   0   0
+1 6 20  6  8  9 2S   W 10 HQ      -  "170"  2  2 -2 -2  75  75  25  25
+5 6 12  2 13  5 3S   W 11 CJ      -  "200"  0  0  0  0  50  50  50  50
+3 6 10 14 15  1 4S   W 11 CJ      -  "450" -2 -2  2  2  25  25  75  75
+4 6 11 18 16  3 4S   W 12 CJ      -  "480" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -990"]
+[OptimumContract "6N E 12"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 12
+W  H  7
+W  D 10
+W  C 11
+W NT 12
+N  S  1
+N  H  5
+N  D  3
+N  C  2
+N NT  1
+E  S 12
+E  H  7
+E  D 10
+E  C 11
+E NT 12
+S  S  1
+S  H  5
+S  D  3
+S  C  2
+S NT  1
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K96.AJ54.AT762.2 AT2.72.Q943.AK95 Q8.KQ86.KJ.QJ643 J7543.T93.85.T87"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+3 6 10 14 15  1 5H   W 10 H3   "50"      -  3  3 -3 -3  88  88  13  13
+4 6 11 18 16  3 5H   W 10 HT   "50"      -  3  3 -3 -3  88  88  13  13
+2 6 17 19  7  4 Pass -  - -     "0"      -  0  0  0  0  50  50  50  50
+5 6 12  2 13  5 4H   W 10 S7      -  "420" -2 -2  2  2  25  25  75  75
+1 6 20  6  8  9 4HXX W 10 C7      -  "880" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -450"]
+[OptimumContract "5H E 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  8
+W  H 11
+W  D 10
+W  C  9
+W NT 10
+N  S  5
+N  H  2
+N  D  3
+N  C  4
+N NT  3
+E  S  7
+E  H 11
+E  D 10
+E  C  9
+E NT 10
+S  S  5
+S  H  2
+S  D  3
+S  C  4
+S NT  3
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J32.A2.QT5.A8632 Q85.QT7.KJ62.KQT AT9764.8.A943.74 K.KJ96543.87.J95"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+5 7 13  3 14  6 4SX  N 10 D8  "590"      -  4  4 -4 -4 100 100   0   0
+3 7 11 15 16  2 4S   N 10 H3  "420"      -  0  0  0  0  50  50  50  50
+4 7 12 19 17  4 4S   N 10 D8  "420"      -  0  0  0  0  50  50  50  50
+2 7 18  1  8  5 4S   N 10 D8  "420"      -  0  0  0  0  50  50  50  50
+1 7 20  7  9 10 2H   E  9 S2      -  "140" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 420"]
+[OptimumContract "4S S 10"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  3
+W  H  9
+W  D  4
+W  C  5
+W NT  5
+N  S 10
+N  H  4
+N  D  8
+N  C  8
+N NT  6
+E  S  3
+E  H  9
+E  D  4
+E  C  5
+E NT  5
+S  S 10
+S  H  4
+S  D  8
+S  C  8
+S NT  6
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ96..K9864.K984 J84.QJT86.52.AT6 T532.K942.JT73.2 K7.A753.AQ.QJ753"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+5 7 13  3 14  6 2H   S 11 D4  "200"      -  3  3 -3 -3  88  88  13  13
+2 7 18  1  8  5 2H   N 11 DJ  "200"      -  3  3 -3 -3  88  88  13  13
+4 7 12 19 17  4 3H   N  8 C2      -  "100" -1 -1  1  1  38  38  63  63
+1 7 20  7  9 10 4H   N  9 C2      -  "100" -1 -1  1  1  38  38  63  63
+3 7 11 15 16  2 4H   N  8 DJ      -  "200" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -130"]
+[OptimumContract "4D W 10"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  9
+W  H  3
+W  D 10
+W  C  4
+W NT  4
+N  S  3
+N  H  9
+N  D  3
+N  C  8
+N NT  7
+E  S  9
+E  H  3
+E  D 10
+E  C  4
+E NT  4
+S  S  3
+S  H  9
+S  D  3
+S  C  9
+S NT  9
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ42.K74.Q9.AKT9 A.QT652.AJT852.8 J7.983.63.Q75432 T98653.AJ.K74.J6"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+5 7 13  3 14  6 2D   E 11 C2      -  "150"  2  2 -2 -2  75  75  25  25
+2 7 18  1  8  5 4D   E 11 SJ      -  "150"  2  2 -2 -2  75  75  25  25
+1 7 20  7  9 10 2D   E 11 C4      -  "150"  2  2 -2 -2  75  75  25  25
+4 7 12 19 17  4 3S   N  6 DJ      -  "300" -2 -2  2  2  25  25  75  75
+3 7 11 15 16  2 4H   E 11 SJ      -  "450" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -450"]
+[OptimumContract "5H E 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H 11
+W  D 11
+W  C  4
+W NT  7
+N  S  5
+N  H  2
+N  D  2
+N  C  8
+N NT  5
+E  S  7
+E  H 11
+E  D 11
+E  C  4
+E NT  7
+S  S  5
+S  H  2
+S  D  2
+S  C  8
+S NT  5
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT.KQ.AKQ8.AKT43 AQ6.T852.62.J982 J432.J93.T93.Q65 9875.A764.J754.7"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+5 8 14  4 15  7 5C   E  9 HT  "200"      -  4  4 -4 -4 100 100   0   0
+2 8 19  2  9  6 3N   E  9 C8      -  "600"  2  2 -2 -2  75  75  25  25
+3 8 12 16 17  3 3N   E 10 C9      -  "630" -2 -2  2  2  25  25  75  75
+4 8 13  1 18  5 3N   E 10 H8      -  "630" -2 -2  2  2  25  25  75  75
+1 8 20  8 10 11 3N   E 10 C8      -  "630" -2 -2  2  2  25  25  75  75
+[OptimumScore "NS -600"]
+[OptimumContract "3N E 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H  6
+W  D  9
+W  C  9
+W NT  9
+N  S  5
+N  H  6
+N  D  4
+N  C  4
+N NT  4
+E  S  7
+E  H  6
+E  D  9
+E  C  9
+E NT  9
+S  S  5
+S  H  6
+S  D  3
+S  C  4
+S NT  3
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AKT4.K86.6.Q9632 932.AT74.A4.AKJ7 8765.QJ.QT97.T85 QJ.9532.KJ8532.4"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+3 8 12 16 17  3 1N   W  6 CT  "100"      -  3  3 -3 -3  88  88  13  13
+1 8 20  8 10 11 3N   W  8 CT  "100"      -  3  3 -3 -3  88  88  13  13
+5 8 14  4 15  7 2S   N  7 C3      -  "100"  0  0  0  0  50  50  50  50
+2 8 19  2  9  6 4D   E 10 SA      -  "130" -2 -2  2  2  25  25  75  75
+4 8 13  1 18  5 2H   W  9 HQ      -  "140" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -140"]
+[OptimumContract "3H W 9"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  5
+W  H  9
+W  D  9
+W  C  5
+W NT  7
+N  S  7
+N  H  3
+N  D  3
+N  C  8
+N NT  5
+E  S  5
+E  H  9
+E  D  9
+E  C  5
+E NT  7
+S  S  7
+S  H  3
+S  D  3
+S  C  8
+S NT  5
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q754.43.K754.J64 K98.QJ5.QT962.K7 AJT632.987.83.98 .AKT62.AJ.AQT532"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+3 8 12 16 17  3 5H   S 12 S5  "480"      -  2  2 -2 -2  75  75  25  25
+4 8 13  1 18  5 4H   S 12 H4  "480"      -  2  2 -2 -2  75  75  25  25
+2 8 19  2  9  6 4H   S 12 H3  "480"      -  2  2 -2 -2  75  75  25  25
+1 8 20  8 10 11 4H   S 11 S5  "450"      - -2 -2  2  2  25  25  75  75
+5 8 14  4 15  7 5C   S 12 S4  "420"      - -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 990"]
+[OptimumContract "6N N 12"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  7
+W  H  1
+W  D  2
+W  C  1
+W NT  1
+N  S  5
+N  H 12
+N  D 11
+N  C 12
+N NT 12
+E  S  7
+E  H  1
+E  D  2
+E  C  1
+E NT  1
+S  S  5
+S  H 12
+S  D 10
+S  C 12
+S NT  7
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:84.T42.KT87.K975 K93.AKQ976.A.AQ2 Q75.J853.J93.J43 AJT62..Q6542.T86"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+5 9 15  5 16  8 4H   E 12 S5      -  "680"  4  4 -4 -4 100 100   0   0
+3 9 13 17 18  4 4N   E 12 CJ      -  "690"  2  2 -2 -2  75  75  25  25
+2 9  1  3 10  7 6S   W 12 S4      - "1430" -1 -1  1  1  38  38  63  63
+1 9 20  9 11 12 6S   W 12 S4      - "1430" -1 -1  1  1  38  38  63  63
+4 9 14  2 19  6 6N   E 13 H3      - "1470" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS -2210"]
+[OptimumContract "7S E 13"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S 13
+W  H 12
+W  D 10
+W  C 10
+W NT 11
+N  S  0
+N  H  1
+N  D  3
+N  C  3
+N NT  1
+E  S 13
+E  H 12
+E  D 10
+E  C 10
+E NT 11
+S  S  0
+S  H  1
+S  D  3
+S  C  3
+S NT  1
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QJT53.3.KJ.Q8732 8742.A9874.AQ4.T K6.JT6.8762.AK95 A9.KQ52.T953.J64"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+2 9  1  3 10  7 Pass -  - -     "0"      -  3  3 -3 -3  88  88  13  13
+3 9 13 17 18  4 Pass -  - -     "0"      -  3  3 -3 -3  88  88  13  13
+5 9 15  5 16  8 4H   S  9 CA      -  "100"  0  0  0  0  50  50  50  50
+4 9 14  2 19  6 2S   E  8 HA      -  "110" -2 -2  2  2  25  25  75  75
+1 9 20  9 11 12 3C   E 11 D4      -  "150" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 650"]
+[OptimumContract "5H S 11"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  6
+W  H  1
+W  D  2
+W  C  9
+W NT  3
+N  S  4
+N  H 11
+N  D 10
+N  C  4
+N NT  8
+E  S  6
+E  H  1
+E  D  2
+E  C  9
+E NT  3
+S  S  4
+S  H 11
+S  D 10
+S  C  4
+S NT  8
+
+[Event "Høstsingel2022"]
+[Site "0245 Nesodden BK, Norge"]
+[Date "2022.10.04"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ984.97.983.KT9 K.AT43.KQJT4.654 632.KQ2.A72.QJ87 QT75.J865.65.A32"]
+[Scoring "MatchPoints;MP1"]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Competition "Individuals"]
+[EventDate "2022.10.04"]
+[Annotator "0245 Nesodden BK"]
+[AnnotatorNA "fleiang@online.no"]
+[Application "Ruter i Norge - Read more at www.brenning.se"]
+[ScoreTable "Table\1R;Round\1R;PlayerId_North\2R;PlayerId_South\2R;PlayerId_East\2R;PlayerId_West\2R;Contract\4L;Declarer\1R;Result\2R;Lead\3L;Score_NS\5R;Score_EW\6R;MP_North\2R;MP_South\2R;MP_East\2R;MP_West\2R;Percentage_North\3R;Percentage_South\3R;Percentage_East\3R;Percentage_West\3R"]
+3 9 13 17 18  4 3D   W  7 S6  "100"      -  4  4 -4 -4 100 100   0   0
+2 9  1  3 10  7 2S   S  7 DK      -   "50"  2  2 -2 -2  75  75  25  25
+4 9 14  2 19  6 2N   W  8 CQ      -  "120"  0  0  0  0  50  50  50  50
+1 9 20  9 11 12 2H   E  9 S4      -  "140" -2 -2  2  2  25  25  75  75
+5 9 15  5 16  8 3N   E  9 S4      -  "400" -4 -4  4  4   0   0 100 100
+[OptimumScore "NS 90"]
+[OptimumContract "1N S 7"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+W  S  5
+W  H  7
+W  D  7
+W  C  5
+W NT  6
+N  S  7
+N  H  5
+N  D  6
+N  C  7
+N NT  7
+E  S  4
+E  H  7
+E  D  7
+E  C  5
+E NT  6
+S  S  7
+S  H  5
+S  D  6
+S  C  7
+S NT  7
